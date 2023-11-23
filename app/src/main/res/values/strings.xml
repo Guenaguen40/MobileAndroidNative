@@ -1,0 +1,97 @@
+<resources>
+
+        <!-- App Name -->
+        <string name="app_name">MobileAndroidNative</string>
+
+        <!-- Welcome screen -->
+        <string name="welcome_to_app">Welcome to 4In Shield!</string>
+        <string name="sign_in_to_continue">Sign in to continue</string>
+        <string name="sign_in_with_email">Sign in with Email</string>
+        <string name="sign_in_with_gmail">Sign in with Gmail</string>
+        <string name="sign_in_with_facebook">Sign in with Facebook</string>
+        <string name="no_account_sign_up">No account? Sign up</string>
+        <string name="sign_in">Sign in</string>
+        <string name="forgot_password">Forgot password?</string>
+
+        <!-- Device usage setup -->
+        <string name="accept_terms_conditions">I hereby accept terms and conditions</string>
+        <string name="who_is_using_device">Who is going to use this device?</string>
+        <string name="parents">Parents</string>
+        <string name="child">Child</string>
+        <string name="add_child_devices">Please add your child’s devices</string>
+        <string name="child_device_information">The information from your child’s device will help us to assess their mental health, duration of sleep, places visited, used applications, etc. It also gives you the ability to block or allow installed applications.</string>
+        <string name="follow_steps">Please follow the following steps:</string>
+        <string name="bring_child_mobile">Bring your child’s mobile phone</string>
+        <string name="scan_qr_code">Scan this QR code with your child’s device camera</string>
+        <string name="redirected_to_download_page">You will be redirected to the 4IN Shield application download page</string>
+        <string name="application_installed_click_next">Once the application is installed, click Next</string>
+        <string name="skip">Skip</string>
+        <string name="next">Next</string>
+
+        <!-- Social media account information -->
+        <string name="enter_social_media_info">Please enter your child’s social media account information</string>
+        <string name="protect_child_from_abuse">This information will help us to protect your child from online abusive content and cyber harassment</string>
+        <string name="child_profile_added">Your child’s profile information has been successfully added</string>
+        <string name="add_new_profile">Add new profile</string>
+        <string name="Continue">Continue</string>
+        <string name="modify_profile_info">Modify profile information</string>
+
+        <!-- Completion screen -->
+        <string name="congratulations">Congratulations!</string>
+        <string name="completed_child_profile">You have successfully completed your child\'s profile.</string>
+        <string name="thank_you_for_confidence">Thank you for your confidence in us.</string>
+        <string name="go_to_dashboard">Go to dashboard</string>
+
+        <!-- Dashboard -->
+        <string name="danger_level">Danger Level</string>
+        <string name="last_night_sleep_duration">Last night Sleep duration</string>
+        <string name="device_usage">Device usage</string>
+        <string name="phone_call_duration">Phone call duration</string>
+        <string name="last_alerts">Last Alerts</string>
+
+        <!-- Child profile details -->
+        <string name="first_name_last_name">First name Last name</string>
+        <string name="child_first_name">Child first name</string>
+
+        <!-- Alerts -->
+        <string name="toxic_comment">Toxic comment!</string>
+        <string name="sleep_deprivation">Sleep deprivation!</string>
+
+        <!-- Social media activities -->
+        <string name="rebecca_morgan">Rebecca Morgan</string>
+        <string name="justin_holmes">Justin Holmes</string>
+
+        <!-- Quotes -->
+        <string name="life_like_chocolates">Mama always said life was like a box of chocolates. You never know what…</string>
+        <string name="could_had_class">You don\'t understand! I could had a class. I could been a contender. I could've…</string>
+
+        <!-- Dashboard tabs -->
+        <string name="dashboard_tab">Dashboard</string>
+        <string name="phone_usage_tab">Phone usage</string>
+        <string name="social_media_tab">Social media</string>
+        <string name="alerts_tab">Alerts</string>
+
+        <!-- Time and duration -->
+        <string name="time_format">hh:mm a</string>
+        <string name="hours_format">%dh</string>
+        <string name="age">Age</string>
+        <string name="week">Week</string>
+        <string name="day">Day</string>
+        <string name="month">Month</string>
+
+        <!-- Profile information -->
+        <string name="gender">Gender</string>
+        <string name="birth_date">Birth date</string>
+        <string name="social_network_platform">Social network platform</string>
+        <string name="start">Start</string>
+
+        <!-- Registration -->
+        <string name="email">Email</string>
+        <string name="password">Password</string>
+        <string name="confirm_password">Confirm your password</string>
+        <string name="username">Username</string>
+        <string name="social_network_user_name">Social network user name</string>
+        <string name="social_network_page_url">Social network page URL</string>
+
+
+</resources>

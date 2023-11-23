@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="fontFamily">@font/poppins_regular</item>
+        <!-- Other style attributes -->
+    </style>
+
+    <!-- Text appearance style with Abel font -->
+    <style name="TextAppearance.Abby" parent="@android:style/TextAppearance">
+        <item name="fontFamily">@font/abel_regular</item>
+        <!-- Other text appearance attributes -->
+    </style>
+
+    <!-- Text appearance style with Poppins Bold font -->
+    <style name="TextAppearance.Bold" parent="@android:style/TextAppearance">
+        <item name="fontFamily">@font/poppins_bold</item>
+    </style>
+</resources>
+
